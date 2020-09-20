@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 📫  Blog:https://www.cnblogs.com/cpaulyz/
 ### 🛠 Tech Stack
 - 💻   Java | Python | C/C++ | Scala | MATLAB
-- 🌐   HTML | CSS | JavaScript | Vue.js
+- 🌐   HTML | CSS | JavaScript
 - ⚡   SpringBoot | Vue2.0 | Spark(learning...) 
-- 🛢   MySQL | MongoDB 
+- 🛢    MySQL | MongoDB 
 - 🔧   Git | Markdown
 - 🖥   Photoshop | Premiere
 
