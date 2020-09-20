@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - 🎓  Studying Software Engineering in NJU 
 - 📫  Blog:https://www.cnblogs.com/cpaulyz/
 ### 🛠 Tech Stack
-- 💻  Java | Python | C/C++ | Scala | MATLAB
-- 🌐  HTML | CSS | JavaScript | Vue.js
-- ⚡ SpringBoot | Vue2.0 | Spark(learning...) 
-- 🛢  MySQL | MongoDB 
-- 🔧  Git | Markdown
-- 🖥  Photoshop | Premiere
+- 💻   Java | Python | C/C++ | Scala | MATLAB
+- 🌐   HTML | CSS | JavaScript | Vue.js
+- ⚡   SpringBoot | Vue2.0 | Spark(learning...) 
+- 🛢   MySQL | MongoDB 
+- 🔧   Git | Markdown
+- 🖥   Photoshop | Premiere
 
 [![Cpaulyz's github stats](https://github-readme-stats.vercel.app/api?username=Cpaulyz&theme=dark)](https://github.com/Cpaulyz/github-readme-stats)
