@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 [![Cpaulyz's github stats](https://github-readme-stats.vercel.app/api?username=Cpaulyz&theme=dark)](https://github.com/Cpaulyz/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpaulyz&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpaulyz&hide=TeX&layout=compact&theme=dark)
