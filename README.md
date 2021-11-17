@@ -37,5 +37,11 @@ Here are some ideas to get you started:
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-[![Cpaulyz's github stats](https://github-readme-stats.vercel.app/api?username=Cpaulyz&theme=dark)](https://github.com/Cpaulyz/github-readme-stats)
+
+
+
+
+![snk](https://raw.githubusercontent.com/Cpaulyz/Cpaulyz/output/github-contribution-grid-snake.svg)
+
+![GitHub_stat](https://github-readme-stats.vercel.app/api?username=Cpaulyz&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpaulyz&hide=TeX&layout=compact&theme=dark)
