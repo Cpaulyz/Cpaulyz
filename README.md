@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### 👨🏻‍💻 About Me
-- 🎓  Studying Software Engineering in NJU 
-- 🤔  I’m currently interested about database
-- 📫  Blog:https://www.cnblogs.com/cpaulyz/
+- 🎓  Studying Software Engineering at NJU.
+- 🤔  Currently interested about database system.
+- ✍️  Learning about distributed system with 6.824.
+- 💼 Working on sync module of Apache IoTDB.
 
 ### 🛠 Tech Tools
 
@@ -38,10 +39,18 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
+<br/>
+
+<a href="https://github.com/cpaulyz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cpaulyz&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpaulyz&hide=TeX&theme=buefy&layout=compact" />
+</a>
 
 
+### 🤝🏻 Connect with Me
 
-![snk](https://raw.githubusercontent.com/Cpaulyz/Cpaulyz/output/github-contribution-grid-snake.svg)
-
-![GitHub_stat](https://github-readme-stats.vercel.app/api?username=Cpaulyz&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpaulyz&hide=TeX&layout=compact&theme=dark)
+<p align="center">
+<a href="https://cpaulyz.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://cpaulyz.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.cnblogs.com/cpaulyz/"><img alt="LinkedIn" src="https://img.shields.io/badge/Old Blog(before 2022)-https://www.cnblogs.com/cpaulyz-blue?style=flat-square&logo=Read the Docs"></a>
+<a href="chen3yz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chen3yz@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
