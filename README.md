@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ### 🤝🏻 Connect with Me
 
 <p align="center">
-<a href="https://cpaulyz.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://cpaulyz.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.cnblogs.com/cpaulyz/"><img alt="LinkedIn" src="https://img.shields.io/badge/Old Blog(before 2022)-https://www.cnblogs.com/cpaulyz-blue?style=flat-square&logo=Read the Docs"></a>
-<a href="chen3yz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chen3yz@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://cpaulyz.github.io/"><img src="https://img.shields.io/badge/Website-https://cpaulyz.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.cnblogs.com/cpaulyz/"><img src="https://img.shields.io/badge/OldBlog(before2022)-https://www.cnblogs.com/cpaulyz-blue?style=flat-square&logo=GitBook"></a>
+<a href="chen3yz@gmail.com"><img src="https://img.shields.io/badge/Email-chen3yz@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
