@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 👨🏻‍💻 About Me
-- 🎓  Studying Software Engineering at Tsinghua University.
-- 🤔  Currently interested about database system and distributed system.
-- 💼 Working on Apache IoTDB.
+-  Studying Software Engineering at Tsinghua University.
+-  Currently interested about database system and distributed system.
+-  Working on Apache IoTDB.
 
 <br/>
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </a>
 
 
-### 🤝🏻 Connect with Me
+### Connect with Me
 
 <p align="center">
 <a href="https://cpaulyz.github.io/"><img src="https://img.shields.io/badge/Website-https://cpaulyz.github.io-blue?style=flat-square&logo=google-chrome"></a>
