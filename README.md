@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### 👨🏻‍💻 About Me
--  Studying Software Engineering at Tsinghua University.
--  Currently interested about database system and distributed system.
--  Working on Apache IoTDB.
+-  Apache IoTDB Committer
+-  Master's degree, School of Software, Tsinghua University
+-  Bachelor's degree, Software Institute, Nanjing University
+-  Currently interested about database system and distributed system
 
 <br/>
 
